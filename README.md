@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MajorOkino
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything with python hit me up
 - 📫 How to reach me ...
 
 <!---
